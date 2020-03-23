@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vitehaepoh.austin-coac.org/sitemap.xml
